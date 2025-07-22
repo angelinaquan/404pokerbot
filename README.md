@@ -28,4 +28,3 @@ Post-flop, our bot made decisions based on an EV-based approach:
 - When raising was an option, calculated the minimum and maximum raise bounds.
 - If our strength was sufficiently high (`strength > 0.6`), we raised a moderate amount to extract value.
 - Otherwise, we called to keep the opponent engaged while minimizing risks.
-<img width="468" height="658" alt="image" src="https://github.com/user-attachments/assets/ad8075d9-68aa-449f-bbe2-0e2656e519bb" />
